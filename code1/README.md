@@ -15,8 +15,8 @@ Print an integer representing the number of products that must be preserved at n
 
 <h3>Example</h3>
 <h3>Input:</h3>
-7
-9-3 8-6-7 8 10
+7<br/>
+9 -3 8 -6 -7 8 10
 <h3>Output:</h3>
 3
 <h3>Explanation:</h3>
